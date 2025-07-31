@@ -1,16 +1,3 @@
-# weatherapp
+# weatherapp<img width="343" height="694" alt="Screenshot 2025-07-31 at 19 19 42" src="https://github.com/user-attachments/assets/9e8e3e84-9750-4f7d-95b4-97cabd05f593" />
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
